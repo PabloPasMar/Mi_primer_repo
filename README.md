@@ -1,4 +1,4 @@
-Mi primer Repo
+Mi primer
  Repositorio publico para comprender el funcionamiento de Git
 
 ## Integrantes
